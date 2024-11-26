@@ -29,8 +29,8 @@ var LAppDefine = {
     // モデルの後ろにある背景の画像ファイル
     BACK_IMAGE_NAME : "assets/image/viorate_bg_s.png",
 
-    //  モデル定義
-    MODEL_HARU : "assets/live2d/haru/haru.model.json",
+    //  
+    MODEL_HARU : "hiyori_free_t08.model3.json",
     MODEL_HARU_A : "assets/live2d/haru/haru_01.model.json",
     MODEL_HARU_B : "assets/live2d/haru/haru_02.model.json",
     MODEL_SHIZUKU : "assets/live2d/shizuku/shizuku.model.json",
